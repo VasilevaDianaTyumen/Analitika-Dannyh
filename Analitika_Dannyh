@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyO1QBJHg6QGJ2E4PIndlj6E",
+      "authorship_tag": "ABX9TyM0xxSOUN0geB0wy4WaTip5",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -72,6 +72,32 @@
           },
           "metadata": {},
           "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "5+5"
+      ],
+      "metadata": {
+        "id": "EV35MwtBp2eS",
+        "outputId": "e4b31276-9a14-45fc-fad2-033b410c81fb",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "10"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
         }
       ]
     }
